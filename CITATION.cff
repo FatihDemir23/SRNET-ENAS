@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+type: software
+title: "SRNet-ENAS: MATLAB Implementation of Evolutionary Neural Architecture Search"
+message: "If you use this software, please cite this software record."
+version: "0.1.0"
+authors:
+  - family-names: "Demir"
+    given-names: "Fatih"
+    affiliation: "Fırat University"
+    orcid: "https://orcid.org/0000-0003-3210-3664"
+repository-code: "https://github.com/FatihDemir23/SRNET-ENAS"
+abstract: >-
+  A MATLAB reference implementation of evolutionary neural architecture
+  search for photovoltaic electroluminescence image classification.
+  Includes genetic algorithm search, configurable residual networks,
+  final training, and held-out evaluation. This implementation has not
+  yet been validated through MATLAB execution and does not claim to
+  reproduce the published experimental results.
+keywords:
+  - neural architecture search
+  - genetic algorithm
+  - deep learning
+  - photovoltaics
+  - electroluminescence
+  - MATLAB
